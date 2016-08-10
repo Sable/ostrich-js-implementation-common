@@ -1,0 +1,19 @@
+{
+  "name": "ostrich-common",
+  "version": "1.0.0",
+  "description": "Ostrich benchmark suite common functions for JavaScript benchmarks",
+  "main": "common_rand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sable/ostrich-js-implementation-common.git"
+  },
+  "author": "Erick Lavoie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sable/ostrich-js-implementation-common/issues"
+  },
+  "homepage": "https://github.com/Sable/ostrich-js-implementation-common"
+}
